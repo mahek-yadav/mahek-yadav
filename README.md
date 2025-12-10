@@ -20,7 +20,7 @@
 ## 🔥 Tech Stack
 
 **Languages:**  
-`Python` `SQL` `JavaScript`  
+`Python` `SQL` `Java`  
 
 **AI & ML:**  
 `NumPy` `Pandas` `Matplotlib` `scikit-learn` `Jupyter` `Data Analysis`  
