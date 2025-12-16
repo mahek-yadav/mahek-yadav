@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🤖 Passionate AI & Machine Learning student  
-- 🧠 Learning: Python, NumPy, Pandas, scikit-learn  
+- 🧠 Learning: Python, NumPy, Pandas 
 - 📊 Interested in ML models, data analysis & automation  
 - 🔍 Exploring: Neural networks, ML pipelines, AI agents  
 - 🎯 Goal 2025: Build industry-level AI/ML projects & publish my first ML research
@@ -23,7 +23,7 @@
 `Python` `SQL` `Java`  
 
 **AI & ML:**  
-`NumPy` `Pandas` `Matplotlib` `scikit-learn` `Jupyter` `Data Analysis`  
+`NumPy` `Pandas` `Matplotlib` `Data Analysis`  
 `Machine Learning Models` `AI Automation`  
 
 **Tools:**  
