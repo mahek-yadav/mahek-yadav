@@ -12,7 +12,7 @@
 - 🤖 Passionate AI & Machine Learning student  
 - 🧠 Learning: Python, NumPy, Pandas ,UI/UX Designing
 - 📊 Interested in ML models, data analysis & automation  
-- 🔍 Exploring: Web development AI agents  
+- 🔍 Exploring: Web development, AI agents  
 
 
 ---
