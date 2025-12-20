@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 - 🤖 Passionate AI & Machine Learning student  
-- 🧠 Learning: Python, NumPy, Pandas 
+- 🧠 Learning: Python, NumPy, Pandas ,UI/UX Designing
 - 📊 Interested in ML models, data analysis & automation  
-- 🔍 Exploring: Neural networks, ML pipelines, AI agents  
-- 🎯 Goal 2025: Build industry-level AI/ML projects & publish my first ML research
+- 🔍 Exploring: Web development AI agents  
+
 
 ---
 
@@ -30,7 +30,7 @@
 `Google Colab` `VS Code` `Git` `Figma`  
 
 **Currently Learning:**  
-`Neural Networks` `Deep Learning` `Model Training` `AI Agents`
+ `Web designing' 'Web development' `AI Agents`
 
 ---
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
