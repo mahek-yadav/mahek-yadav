@@ -20,7 +20,7 @@
 ## 🔥 Tech Stack
 
 **Languages:**  
-`Python` `SQL` `Java`  
+`Python` `SQL` `Java` `Javascript` `C++` 
 
 **AI & ML:**  
 `NumPy` `Pandas` `Matplotlib` `Data Analysis`  
@@ -30,7 +30,7 @@
 `Google Colab` `VS Code` `Git` `Figma`  
 
 **Currently Learning:**  
- `Web designing` `Web development` `AI Agents`
+ `Web designing` `Web development` `AI Agents` 
 
 ---
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
